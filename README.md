@@ -20,14 +20,15 @@ Similarly, partial Shakespeare data here is sampled with the command below:
 
 If you find our work useful, please consider citing:
 
-`@inproceedings{ergisi2026breaking,`
-  `title={Breaking BAD: Heterogeneous Byzantine-Robust Federated Learning via Gather and Scatter Scores},`
-  `author={Ergisi, Sena and Massny, Luis and Bitar, Rawad},`
-  `booktitle={The Fortieth Annual Conference on Neural Information Processing Systems},`
-  `year={2026},`
-  `url={https://openreview.net/forum?id=zYNKoIyYhj}`
-`}`
-
+```bibtex
+@inproceedings{ergisi2026breaking,
+  title={Breaking BAD: Heterogeneous Byzantine-Robust Federated Learning via Gather and Scatter Scores},
+  author={Ergisi, Sena and Massny, Luis and Bitar, Rawad},
+  booktitle={The Fortieth Annual Conference on Neural Information Processing Systems},
+  year={2026},
+  url={https://openreview.net/forum?id=zYNKoIyYhj}
+}
+```
 
 ## Acknowledgements 
 This repository benefited from the following resources, projects, and references:
